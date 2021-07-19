@@ -1,6 +1,6 @@
 # Landing Page
 
-Dispoínvel em http://gama-hiring-coders-landing-page.surge.sh/
+Disponível em http://gama-hiring-coders-landing-page.surge.sh/
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.1.
 
